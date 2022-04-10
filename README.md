@@ -2,6 +2,7 @@ platform-samples
 ================
 This is the new file
 
+added new line
 
 This is a public place for all sample projects related to the GitHub Platform.
 
