@@ -1,7 +1,6 @@
 # Using the SQL queries
 
 
-One of the regular activities : Hello world
 
 The safest way to run these queries is by using the backup created by [backup-utils](https://github.com/github/backup-utils) loaded into another database server.  This database can be quite large and GitHub Enterprise Server can be sensitive to I/O intensive operations that aren't part of anticipated load.
 
