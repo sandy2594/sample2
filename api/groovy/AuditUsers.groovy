@@ -1,5 +1,7 @@
 #!/usr/bin/env groovy
 
+Hello new line added
+
 /**
  * groovy script to show all repositories that can be accessed by given users on an GitHub Enterprise instance
  *
