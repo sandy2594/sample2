@@ -1,5 +1,8 @@
 platform-samples
 ================
+
+The new world added
+
 This is the new file
 
 added new line
